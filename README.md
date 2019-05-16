@@ -3,7 +3,7 @@
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-intro-tutorial
 npm install
 ```
 
